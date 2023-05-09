@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tredfield
-- 👀 I’m interested in dirtbikes, coffee, beer
+- 👀 I’m interested in dirtbikes, coffee, my dogs
 - 🌱 I’m currently learning gcp
 
 <!---
